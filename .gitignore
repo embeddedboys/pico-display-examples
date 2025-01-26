@@ -4,5 +4,6 @@ _deps
 cmake-*
 build
 build-*
+.cache
 .DS_Store
 *.pdf
