@@ -1,0 +1,4 @@
+[submodule "lib/lvgl"]
+	path = lib/lvgl
+	url = https://gitee.com/embeddedboys/lvgl
+	branch = release/v8.4
